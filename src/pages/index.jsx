@@ -218,7 +218,7 @@ export default function Home({ articles }) {
         </title>
         <meta
           name="description"
-          content=" Hi, I'm Vincent, an Octocat-loving developer community enthusiast based in the Philippines."
+          content=" Hi, I&apos;m Vincent, an Octocat-loving developer community enthusiast based in the Philippines."
         />
       </Head>
       <Container className="mt-9 flex flex-col items-center text-center relative">
@@ -226,70 +226,21 @@ export default function Home({ articles }) {
           <Image
             src={pumpFunImage}
             alt="Pump Fun"
-            width={300}
-            height={300}
-            className="rounded-lg "
+            width={100}
+            height={100}
+            className="rounded-lg shadow-lg"
           />
         </Link>
         <div className="max-w-2xl">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-            <span className="text-red-500">$Game</span>Stop
+            <span className="text-red-500">$Game</span>Stop Token
           </h1>
-          <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-            <span className="text-red-500">I like the token!</span>
-          </h1>
+
           <p className="mt-6 text-lg text-transparent bg-clip-text bg-gradient-to-r from-white to-red-500">
-          Future generations will look back and say 'Good men stood here'
-
-good men fought and died on this ground...
-
-As they worked as a collective force buying and hodling $GME
-
-since the spawn of crypto market
-
-two classes of people have been pitted against each other...
-
-"Eternal enemies, forever forced and fated to combat: lions and hyenas."
-
-"These lions... these Whales have it all
-
-Billions of dollars
-
-bailouts for reckless trades, these dirty fking crimal bastards."
-
-"And then there's us.
-
-The working man, The average joe.
-
-What do we have?
-
-What the fk do we have?
-
-They literally call us 'Degens.'
-
-"These lions, these whales guys, were born with a silver spoons in their mouths.
-
-The Top 1% of the 1%.
-
-They have massive bank accounts, eat medium rare grade A Wagyu steak."
-
-What the fk is that?
-
-That sounds delicious.
-
-"With truffle shaving for launch."
-
-That's fk!
-
-They have blow and escorts on their yacht parties."
-
-Why do we hate these guys?
-
-"Then you know what they will tell these escorts?
-
-"When the smoking hot blonde asks them, 'Like, how do you have so much money?'"
-
-"You know what they say? They say 'Ha, Degen money, babe. Degen Money."
+            Hi, I&apos;m Vincent, a dedicated and experienced GitHub Field Expert and Open Source Advocate. 
+            My passion lies in building strong relationships within the developer community, and 
+            I am the proud founder of both WebX DAO and SurPath Hub, two open-source communities aimed
+            at promoting the widespread use and accessibility of open source technology.
           </p>
           <div className="mt-6 flex justify-center gap-6">
             <SocialLink
