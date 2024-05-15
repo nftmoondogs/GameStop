@@ -299,7 +299,7 @@ You know what they say? They say Ha, Degen money, babe. Degen Money.
               icon={TwitterIcon}
             />
             <SocialLink
-              href="https://www.instagram.com/vinzvinci/"
+              href="https://t.me/gmecommunity"
               aria-label="Follow on Instagram"
               icon={InstagramIcon}
             />
