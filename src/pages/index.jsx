@@ -228,7 +228,7 @@ export default function Home({ articles }) {
             alt="Pump Fun"
             width={250}
             height={250}
-            className="rounded-lg shadow-lg"
+            className="rounded-lg"
           />
         </Link>
         <div className="max-w-2xl">
