@@ -226,8 +226,8 @@ export default function Home({ articles }) {
           <Image
             src={pumpFunImage}
             alt="Pump Fun"
-            width={100}
-            height={100}
+            width={250}
+            height={250}
             className="rounded-lg shadow-lg"
           />
         </Link>
