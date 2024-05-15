@@ -280,7 +280,7 @@ That sounds delicious.
 
 With truffle shaving for launch.
 
-That's fk!
+Thats fk!
 
 They have blow and escorts on their yacht parties.
 
