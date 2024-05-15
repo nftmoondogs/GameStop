@@ -233,7 +233,9 @@ export default function Home({ articles }) {
         </Link>
         <div className="max-w-2xl">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-            <span className="text-red-500">$Game</span>Stop Token
+            <span className="text-red-500">$Game</span>Stop
+          </h1>
+          <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
             <span className="text-red-500">I like the token!</span>
           </h1>
 
