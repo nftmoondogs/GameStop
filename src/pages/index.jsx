@@ -294,7 +294,7 @@ You know what they say? They say Ha, Degen money, babe. Degen Money.
           </p>
           <div className="mt-6 flex justify-center gap-6">
             <SocialLink
-              href="https://twitter.com/vinzvinci"
+              href="https://twitter.com/gmesoltoken"
               aria-label="Follow on Twitter"
               icon={TwitterIcon}
             />
