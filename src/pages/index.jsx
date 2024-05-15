@@ -214,7 +214,7 @@ export default function Home({ articles }) {
     <>
       <Head>
         <title>
-          Vincent Villafuerte | Home
+          $GME - GameStop
         </title>
         <meta
           name="description"
