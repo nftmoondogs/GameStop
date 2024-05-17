@@ -222,7 +222,7 @@ export default function Home({ articles }) {
         />
       </Head>
       <Container className="mt-9 flex flex-col items-center text-center relative">
-        <Link href="https://pump.fun/AjEXy1rdYvwWvvtJBai13xBVV6D98jXx51Sc795e1RRu" className="absolute top-0 right-0 mt-4 mr-4">
+        <Link href="https://pump.fun/board" className="absolute top-0 right-0 mt-4 mr-4">
           <Image
             src={pumpFunImage}
             alt="Pump Fun"
