@@ -13,7 +13,7 @@ import {
   GitHubIcon,
   LinkedInIcon,
 } from '@/components/SocialIcons';
-import image1 from '@/images/photos/image-1.png';
+import image1 from '@/images/photos/image-1.gif';
 import image2 from '@/images/photos/image-2.png';
 import image3 from '@/images/photos/image-3.png';
 import image4 from '@/images/photos/image-4.png';
@@ -188,7 +188,7 @@ function Photos() {
   return (
     <div className="mt-16 sm:mt-20">
       <div className="-my-4 flex justify-center gap-5 overflow-hidden py-4 sm:gap-8">
-        {[image1, image2, image3, image4].map((image, imageIndex) => (
+        {[image1, image1, image1, image1].map((image, imageIndex) => (
           <div
             key={image.src}
             className={clsx(
@@ -214,7 +214,7 @@ export default function Home({ articles }) {
     <>
       <Head>
         <title>
-          $GME - GameStop
+          $RDOG - Roaring Dog
         </title>
         <meta
           name="description"
@@ -222,7 +222,7 @@ export default function Home({ articles }) {
         />
       </Head>
       <Container className="mt-9 flex flex-col items-center text-center relative">
-        <Link href="https://pump.fun/E9XNg1hSw6wCJbCaKaNyUy5NdHK73C3deD5MxXenpump" className="absolute top-0 right-0 mt-4 mr-4">
+        <Link href="https://pump.fun/board" className="absolute top-0 right-0 mt-4 mr-4">
           <Image
             src={pumpFunImage}
             alt="Pump Fun"
@@ -233,7 +233,7 @@ export default function Home({ articles }) {
         </Link>
         <div className="max-w-2xl">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-            <span className="text-red-500">$GME</span> Token
+            <span className="text-red-500">$RDOG</span> Token
           </h1>
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
             <span className="text-red-500">I like the token!</span>
